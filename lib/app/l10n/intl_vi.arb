@@ -1,0 +1,110 @@
+{
+  "@@locale": "vi",
+  "hello": "Xin chào {name}",
+  "@hello": {
+    "type": "text",
+    "placeholders": {
+      "name": {}
+    }
+  },
+  "home": "Trang chủ",
+  "@home": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "yes": "Có",
+  "@yes": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "no": "Không",
+  "@no": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "confirm": "Xác nhận",
+  "@confirm": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "submit": "Thực hiện",
+  "@submit": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "cancel": "Huỷ bỏ",
+  "@cancel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "close": "Đóng",
+  "@close": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "applicationClosingConfirmation": "Bạn có muốn đóng ứng dụng?",
+  "@applicationClosingConfirmation": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "homePage": "Trang chủ",
+  "@homePage": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "mainPage1": "Trang chủ",
+  "@mainPage1": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "mainPage2": "Di chuyển",
+  "@mainPage2": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "mainPage3": "Mua bán",
+  "@mainPage3": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "mainPage4": "Địa điểm",
+  "@mainPage4": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "mainPage5": "Thanh toán",
+  "@mainPage5": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "searchHintText": "Search...",
+  "@searchHintText": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "mainPage1SearchHintText": "Tìm kiếm trên Gobid...",
+  "@mainPage1SearchHintText": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "mainPage2SearchHintText": "Tìm kiếm điểm đến...",
+  "@mainPage2SearchHintText": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "mainPage3SearchHintText": "Tìm kiếm sản phẩm...",
+  "@mainPage3SearchHintText": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "mainPage4SearchHintText": "Tìm kiếm địa điểm...",
+  "@mainPage4SearchHintText": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "mainPage5SearchHintText": "Tìm kiếm giao dịch...",
+  "@mainPage5SearchHintText": {
+    "type": "text",
+    "placeholders": {}
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "@@locale": "en",
+  "hello": "Hello {name}",
+  "@hello": {
+    "type": "text",
+    "placeholders": {
+      "name": {}
+    }
+  },
+  "home": "Home",
+  "@home": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "yes": "Yes",
+  "@yes": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "no": "No",
+  "@no": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "confirm": "Confirm",
+  "@confirm": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "submit": "Submit",
+  "@submit": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "cancel": "Cancel",
+  "@cancel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "close": "Close",
+  "@close": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "applicationClosingConfirmation": "Do you want to close the application?",
+  "@applicationClosingConfirmation": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "homePage": "Home page",
+  "@homePage": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "mainPage1": "Home",
+  "@mainPage1": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "mainPage2": "Transport",
+  "@mainPage2": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "mainPage3": "Trading",
+  "@mainPage3": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "mainPage4": "Place",
+  "@mainPage4": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "mainPage5": "Payment",
+  "@mainPage5": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "searchHintText": "Search...",
+  "@searchHintText": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "mainPage1SearchHintText": "Search on Gobid...",
+  "@mainPage1SearchHintText": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "mainPage2SearchHintText": "Search destination...",
+  "@mainPage2SearchHintText": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "mainPage3SearchHintText": "Search product...",
+  "@mainPage3SearchHintText": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "mainPage4SearchHintText": "Search place...",
+  "@mainPage4SearchHintText": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "mainPage5SearchHintText": "Search transaction...",
+  "@mainPage5SearchHintText": {
+    "type": "text",
+    "placeholders": {}
+  }
+}
